@@ -1,8 +1,5 @@
 Fuck the world!
 yes!!
 I changed it!
-<<<<<<< HEAD
-tutorial changed it again!
-=======
 tutorial change it!
->>>>>>> 3ba9e9fb186bdf32de7011565ef70cbe1d20ce70
+tutorial changed it again!
